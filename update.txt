@@ -1,0 +1,1 @@
+Made the game area longer and added more obstacles.
